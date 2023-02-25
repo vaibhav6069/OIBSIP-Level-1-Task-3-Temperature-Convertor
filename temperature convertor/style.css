@@ -1,0 +1,36 @@
+
+.container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+form {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+select {
+  width: 100%;
+}
+
+#convertBtn {
+  margin-top: 20px;
+  width: 100%;
+}
+
+#outputTemp {
+  font-weight: bold;
+  text-align: center;
+}
